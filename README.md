@@ -2,6 +2,12 @@
 - 🔭 I’m currently working on KeyFlow. Contributions are welcomed.
 - 👯 I’m looking to collaborate on impactful projects.
 - 📫 Reach out to me at: https://www.linkedin.com/in/hetulbhatt/
+
+##Greetings! 👋
+- I’m currently working on KeyFlow. Contributions are welcomed.
+- Looking to collaborate on impactful projects.
+- Reach out to me at: https://www.linkedin.com/in/hetulbhatt/
+
 <!--
 **hetulbhatt/hetulbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
